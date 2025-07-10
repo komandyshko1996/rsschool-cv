@@ -4,3 +4,13 @@
 
 ***Nickname in the Discord***: Татьяна 1908_1996
 ___
+
+***About me***: I want to study at school because I aim to expand my knowledge, develop new skills. School is a place where I can grow and turn my dreams into reality
+
+***Skills***: Entry level
+
+***Sample code***:
+```JavaScript
+
+console.log("Hello world");
+```

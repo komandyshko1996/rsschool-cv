@@ -14,3 +14,6 @@ ___
 
 console.log("Hello world");
 ```
+***Work experience***: [Link to the project](https://github.com/komandyshko1996/rsschool-cv)
+
+___
